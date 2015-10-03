@@ -12,7 +12,7 @@ and open the template in the editor.
     </head>
     <body>
         <div class="contenedorPrincipal"> <!-- INICIO CONTENEDOR DE LA PÁGINA -->
-            
+            ESTO ES UN CAMBIO IMPORTANTE
             <?php 
                 include_once './php/header.php';
             ?>
