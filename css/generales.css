@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09-ago-2015, 13:47:44
+    Author     : Ing. Fernando Rosero P
+*/
+
+html,body{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0px auto;
+    height:100%;
+    font: "Cousine";
+   // background-color: red;
+}
+.contenedorPrincipal{
+    //width: 100%;
+    height:100%;
+   // background-color: aqua;
+    
+}
+
+.contenedorPrincipal .prueba{
+    height: 100%;
+    background-color: cadetblue;
+    //margin-top:-8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}

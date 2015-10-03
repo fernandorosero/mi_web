@@ -1,0 +1,55 @@
+/* 
+    Created on : 10-ago-2015, 17:24:05
+    Author     : Ing. Fernando Rosero
+*/
+
+.contenedorPrincipal .contenedorcuerpo{
+    /*position: relative;
+    z-index: 1;*/
+   // width: 100%;
+    height: 100%;
+    text-align: center;
+    font: 22px/50px "Cousine";
+    letter-spacing: 4px;
+    color: #FFF;
+    //background-image: url(../img/fondo.jpg) ;
+    background-image: url(../img/borrador/prueba2.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    margin-top:-8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: 8px;
+    
+}
+.contenedorPrincipal .contenedorcuerpo .logo{
+    border: 3px solid #ffffff;
+    border-radius: 50%;
+    height: 190px;
+    margin-top: 140px;
+    
+}
+.contenedorcuerpo .parrafo{
+    font: 30px/50px "Cousine";
+    margin-top:30px;
+}
+.contenedorcuerpo a{
+    /*position: relative;
+    z-index: 1;*/
+    color: #FFF;
+    text-decoration: none;
+    width: 316px;
+    height: 46px;
+    border: 2px solid #FFF;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out 0s;
+    padding: 15px;
+}
+.contenedorcuerpo a:hover{
+    color:#000;
+    background-color: #FFF;
+}
+

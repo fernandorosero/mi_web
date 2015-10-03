@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09-ago-2015, 14:07:21
+    Author     : Ing. Fernando Rosero P.
+*/
+.contenedorPrincipal .header{
+    width: 100%;
+    max-width: 1216px;
+    
+    height: 84px;
+    //background-color: rgba(22, 40, 58, 0.40);
+    background: rgba(76,76,76,.85);
+    position: fixed;
+    margin: 0px auto;
+    margin-left: -8px;
+    /*z-index: 3;*/
+    //top:0px;
+    //left:0px;
+    
+  }
+.contenedorPrincipal .header .logofr{
+    width: 66px;
+    height: 66px;
+    float: left;
+    border: 3px solid #ffffff;
+    border-radius: 50px;
+    margin-left: 15px;
+    margin-top: 10px;
+    /*display: none;*/
+}
+.contenedorPrincipal .header ul{
+    float: right;
+    margin-right: 15px;
+}
+.contenedorPrincipal .header ul a li{
+    display: inline-block;
+    padding:  17px;
+    color: #ffffff;
+    font-size: 14pt;
+    margin-left: -8px;
+    border-left-style: solid; 
+    border-right-style: solid;
+    border-color: #a6a1a6;
+    transition: all 0.2s ease-in-out 0s;
+}
+.contenedorPrincipal .header ul a li:hover{
+    color: #cccccc;
+    background-color: #ffffff;
+    /*border-radius: 6px;*/
+}

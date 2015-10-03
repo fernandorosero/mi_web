@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09-ago-2015, 13:29:34
+    Author     : Ing. Fernando Rosero P
+*/
+
+@import"generales.css"; /*Estilos generales de la página web*/
+
+@import"header.css"; /*Estilos del header menu y logo*/
+
+@import"footer.css"; /*Estilos del pie de página*/
+
+@import"contenedor.css"; /*Estilos del cuerpo del documento*/
+
+@import"light.css"; /*Redes sociales*/
