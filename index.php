@@ -13,7 +13,6 @@ and open the template in the editor.
     <body>
         <div class="contenedorPrincipal"> <!-- INICIO CONTENEDOR DE LA PÁGINA -->
             
-            
             <?php 
                 include_once './php/header.php';
             ?>
